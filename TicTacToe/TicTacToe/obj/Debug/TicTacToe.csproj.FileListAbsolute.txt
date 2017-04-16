@@ -1,0 +1,16 @@
+C:\Users\Dell\AppData\Local\Temporary Projects\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Dell\AppData\Local\Temporary Projects\TicTacToe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\AppData\Local\Temporary Projects\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Dell\AppData\Local\Temporary Projects\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Dell\AppData\Local\Temporary Projects\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Dell\AppData\Local\Temporary Projects\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.Cache

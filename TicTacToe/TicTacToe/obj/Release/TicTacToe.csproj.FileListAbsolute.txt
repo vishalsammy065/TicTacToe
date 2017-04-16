@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\bin\Release\TicTacToe.exe
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\bin\Release\TicTacToe.pdb
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\obj\Release\TicTacToe.Form1.resources
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\obj\Release\TicTacToe.Properties.Resources.resources
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\obj\Release\TicTacToe.csproj.GenerateResource.Cache
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\obj\Release\TicTacToe.exe
+C:\Users\Dell\Desktop\TicTacToe\TicTacToe\obj\Release\TicTacToe.pdb
